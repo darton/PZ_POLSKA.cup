@@ -1433,6 +1433,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc,userdata,pics
 "Sosnie Przejazd",SOSNIE,PL,5128.367N,01738.450E,128.0m,1,,,,,,
 "Sosnie Road Rail",SOSNIX,PL,5128.350N,01738.333E,129.0m,17,,,,,,
 "Sosnowica Most",SOSNOW,PL,5131.367N,02304.383E,158.0m,1,,,,,,
+"Sowliny Rondo",SOWLINY,PL.04943.335N,02024.250E,400.0m,1,,,,,,
 "Spychowo Church",SPYCHO,PL,5335.900N,02120.850E,133.0m,16,,,,,,
 "Srem Most",SREMMO,PL,5205.883N,01700.633E,66.0m,1,,,,,,
 "Srem RoadXWarta",SREMKI,PL,5205.483N,01701.100E,70.0m,14,,,,,,
