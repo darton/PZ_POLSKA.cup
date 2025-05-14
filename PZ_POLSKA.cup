@@ -892,6 +892,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc,userdata,pics
 "Jezowe Kosciol",JEZOWE,PL,5022.500N,02210.000E,180.0m,1,,,,,,
 "Jordanow Town Sq",JORDAN,PL,4938.833N,01949.833E,488.0m,1,,,,,,
 "Jozefow Kosciol",JOZEFO,PL,5027.500N,02304.167E,250.0m,1,,,,,,
+"Jurkow",JURKOWR,PL,04951.074N,02041.299E,320.0m,1,,,,,,
 "Kadzibolo Twn",KADZIB,PL,5313.767N,02127.483E,115.0m,1,,,,,,
 "Kakolewo East Eb",KAKOLE,PL,5151.517N,01641.467E,110.0m,17,,,,,,
 "Kakolewo North E",KAKOLN,PL,5213.900N,01615.567E,91.0m,1,,,,,,
