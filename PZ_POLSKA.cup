@@ -1348,6 +1348,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc,userdata,pics
 "Rossoszyca Kosci",ROSSOS,PL,5142.167N,01847.583E,146.0m,1,,,,,,
 "Rozan B60XNarew",ROZANB,PL,5253.117N,02124.450E,127.0m,14,,,,,,
 "Rozan Rynek",ROZANR,PL,5253.367N,02123.917E,125.0m,1,,,,,,
+"Roznow Zapora",ROZNOWZ,PL,04945.688N,02039.664E,297,5m,1,,,,,,
 "Ruciane",RUCIAN,PL,5339.283N,02133.133E,118.0m,1,,,,,,
 "Ruciane Nida Sta",RUCIAS,PL,5338.917N,02133.867E,127.0m,1,,,,,,
 "RudaKoscielna",,PL,5057.253N,02131.840E,185.0m,5,270,1000.0m,,,,
