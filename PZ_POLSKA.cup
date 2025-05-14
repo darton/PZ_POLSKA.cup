@@ -1160,6 +1160,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc,userdata,pics
 "Nowemi",NOWEM,PL,5137.667N,02032.250E,158.0m,5,60,1400.0m,,,,
 "NoweMiastoNadPilica",EPNM,PL,5137.639N,02032.063E,157.4m,5,280,2400.0m,,"Byle wojskowe. Podobno dobry stan.",,
 "Nowogrod Bobrzan",NOWOGR,PL,5148.383N,01514.383E,83.0m,14,,,,,,
+"Nowy Sacz Zabelecka Gora Rondo", NSZGR,PL,04938.431N,02041.623E,307.0m,1,,,,,,
 "Nowy Targ",NOWYT,PL,4927.767N,02003.017E,628.0m,2,120,1690.0m,,,,
 "Nowy Targ Hangar",NOWYTH,PL,4928.000N,02003.083E,611.0m,1,,,,,,
 "Nowy Tomysl EbXN",NOWYTO,PL,5218.233N,01607.683E,98.0m,1,,,,,,
